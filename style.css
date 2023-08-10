@@ -21,10 +21,18 @@
   color: white;
 }
 
+.Anupa{
+  text-align: left;
+}
+
+#Anu{
+  text-align: left;
+}
+
 /* about section image css */
 .imageAboutPage {
   width: 80%;
-  text-align: left;
+  text-align: justify;
 }
 
 /* services section css */
